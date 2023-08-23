@@ -1,1 +1,1 @@
-# Journey to Cs50x
+# Journey to Cs50x.
