@@ -1,1 +1,1 @@
-# Journey to CS50x.
+# CS50x Journy.
