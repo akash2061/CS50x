@@ -1,1 +1,1 @@
-# My Journey to CS50x
+# My Journey to CS50x.
